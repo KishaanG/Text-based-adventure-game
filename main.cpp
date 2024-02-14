@@ -1,7 +1,7 @@
 /*
 
 	Author: Kishaan Gidda
-	Description: A choose your own adventure story (made on replit)
+	Description: A choose your own adventure story (made on replit: https://replit.com/@KishaanG/final-project#main.cpp)
 	Last modified: 28 January, 2022
 
 */
